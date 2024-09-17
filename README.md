@@ -4,8 +4,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on web designing.
-- 🌱 I’m currently learning python.
+- 🔭 I’m currently working on flutter.
+- 🌱 I’m currently learning flutter.
 - 👯 I’m looking to collaborate on thaxna.
 - 🤔 I’m looking for help with github
 - 💬 Ask me about GitHub
