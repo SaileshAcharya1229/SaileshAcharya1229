@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about GitHub
 - 📫 How to reach me: saileshacharya1229@gmail.com
 - 😄 Pronouns: He
-- ⚡ Fun fact: i cannot eat by left hand.
+- ⚡ Fun fact: I cannot eat by left hand.
